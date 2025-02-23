@@ -7,7 +7,8 @@ Esta es una aplicación React que consume datos de una API REST y permite gestio
 Obtiene y muestra datos de usuarios desde https://jsonplaceholder.typicode.com/users.
 Filtro en tiempo real por nombre, email o ciudad.
 Permite agregar nuevos usuarios (guardados en memoria temporalmente).
-Requisitos previos
+
+## Requisitos previos
 Para ejecutar esta aplicación, necesitas tener instalado:
 
 ```
